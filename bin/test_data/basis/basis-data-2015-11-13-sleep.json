@@ -1,0 +1,652 @@
+{
+  "content": {
+    "activities": [
+      {
+        "actual_seconds": 23700,
+        "calories": 384.6000061035156,
+        "date": "2015-11-13",
+        "end_time": {
+          "iso": "2015-11-14T06:35:00Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447482900
+        },
+        "events": [
+          {
+            "time": {
+              "iso": "2015-11-14T00:01:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447459260
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T00:48:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447462080
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T01:59:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447466340
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T02:32:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447468320
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T02:46:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447469160
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T02:56:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447469760
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T03:03:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447470180
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T03:04:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447470240
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T04:07:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447474020
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T04:22:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447474920
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T04:32:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447475520
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T04:34:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447475640
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T04:39:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447475940
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T04:49:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447476540
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T04:59:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447477140
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T05:08:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447477680
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T05:12:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447477920
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T05:23:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447478580
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T06:22:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482120
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T06:23:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482180
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T06:29:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482540
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T06:33:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482780
+            },
+            "type": "toss_and_turn"
+          },
+          {
+            "time": {
+              "iso": "2015-11-14T06:34:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482840
+            },
+            "type": "toss_and_turn"
+          }
+        ],
+        "heart_rate": {
+          "avg": 54.77468490600586,
+          "max": null,
+          "min": null
+        },
+        "id": "sleep__2015-11-14T0000",
+        "minutes": 395,
+        "sealed": true,
+        "sleep": {
+          "deep_minutes": 65,
+          "deep_percent": 16.455696202531644,
+          "interruption_minutes": 0,
+          "interruptions": 0,
+          "light_minutes": 229,
+          "light_percent": 57.9746835443038,
+          "quality": 90,
+          "rem_minutes": 101,
+          "rem_percent": 25.569620253164558,
+          "toss_and_turn": 23,
+          "unknown_minutes": 0,
+          "unknown_percent": 0.0
+        },
+        "stages": [
+          {
+            "end_time": {
+              "iso": "2015-11-14T00:26:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447460760
+            },
+            "minutes": 26,
+            "start_time": {
+              "iso": "2015-11-14T00:00:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447459200
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T00:47:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447462020
+            },
+            "minutes": 21,
+            "start_time": {
+              "iso": "2015-11-14T00:26:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447460760
+            },
+            "type": "deep"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T01:24:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447464240
+            },
+            "minutes": 37,
+            "start_time": {
+              "iso": "2015-11-14T00:47:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447462020
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T01:51:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447465860
+            },
+            "minutes": 27,
+            "start_time": {
+              "iso": "2015-11-14T01:24:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447464240
+            },
+            "type": "deep"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T01:52:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447465920
+            },
+            "minutes": 1,
+            "start_time": {
+              "iso": "2015-11-14T01:51:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447465860
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T02:04:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447466640
+            },
+            "minutes": 12,
+            "start_time": {
+              "iso": "2015-11-14T01:52:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447465920
+            },
+            "type": "rem"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T02:45:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447469100
+            },
+            "minutes": 41,
+            "start_time": {
+              "iso": "2015-11-14T02:04:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447466640
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T03:02:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447470120
+            },
+            "minutes": 17,
+            "start_time": {
+              "iso": "2015-11-14T02:45:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447469100
+            },
+            "type": "rem"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T04:07:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447474020
+            },
+            "minutes": 65,
+            "start_time": {
+              "iso": "2015-11-14T03:02:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447470120
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T04:48:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447476480
+            },
+            "minutes": 41,
+            "start_time": {
+              "iso": "2015-11-14T04:07:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447474020
+            },
+            "type": "rem"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T04:57:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447477020
+            },
+            "minutes": 9,
+            "start_time": {
+              "iso": "2015-11-14T04:48:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447476480
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T05:16:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447478160
+            },
+            "minutes": 19,
+            "start_time": {
+              "iso": "2015-11-14T04:57:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447477020
+            },
+            "type": "rem"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T05:26:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447478760
+            },
+            "minutes": 10,
+            "start_time": {
+              "iso": "2015-11-14T05:16:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447478160
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T05:43:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447479780
+            },
+            "minutes": 17,
+            "start_time": {
+              "iso": "2015-11-14T05:26:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447478760
+            },
+            "type": "deep"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T06:22:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482120
+            },
+            "minutes": 39,
+            "start_time": {
+              "iso": "2015-11-14T05:43:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447479780
+            },
+            "type": "light"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T06:34:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482840
+            },
+            "minutes": 12,
+            "start_time": {
+              "iso": "2015-11-14T06:22:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482120
+            },
+            "type": "rem"
+          },
+          {
+            "end_time": {
+              "iso": "2015-11-14T06:35:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482900
+            },
+            "minutes": 1,
+            "start_time": {
+              "iso": "2015-11-14T06:34:00Z",
+              "time_zone": {
+                "name": "Europe/Dublin",
+                "offset": 0
+              },
+              "timestamp": 1447482840
+            },
+            "type": "light"
+          }
+        ],
+        "start_time": {
+          "iso": "2015-11-14T00:00:00Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447459200
+        },
+        "state": "complete",
+        "type": "sleep",
+        "version": 2
+      }
+    ]
+  },
+  "meta": {
+    "response_code": 200
+  }
+}

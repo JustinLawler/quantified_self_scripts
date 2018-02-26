@@ -1,0 +1,351 @@
+{
+  "content": {
+    "activities": [
+      {
+        "actual_seconds": 319.0,
+        "calories": 48.70000076293945,
+        "end_time": {
+          "iso": "2015-11-13T11:47:33Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447415253
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T114045/events"
+        },
+        "heart_rate": {
+          "avg": 105.74295043945312,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T114045",
+        "minutes": 6.8,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T114045/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T11:40:45Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447414845
+        },
+        "state": "complete",
+        "steps": 622.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 701.0,
+        "calories": 110.0,
+        "end_time": {
+          "iso": "2015-11-13T12:21:11Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447417271
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T120713/events"
+        },
+        "heart_rate": {
+          "avg": 106.36325073242188,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T120713",
+        "minutes": 13.966666666666667,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T120713/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T12:07:13Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447416433
+        },
+        "state": "complete",
+        "steps": 1410.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 631.0,
+        "calories": 93.9000015258789,
+        "end_time": {
+          "iso": "2015-11-13T14:53:35Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447426415
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T144231/events"
+        },
+        "heart_rate": {
+          "avg": 110.87955474853516,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T144231",
+        "minutes": 11.066666666666666,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T144231/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T14:42:31Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447425751
+        },
+        "state": "complete",
+        "steps": 1221.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 378.0,
+        "calories": 56.599998474121094,
+        "end_time": {
+          "iso": "2015-11-13T16:30:35Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447432235
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T162358/events"
+        },
+        "heart_rate": {
+          "avg": 88.80422973632812,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T162358",
+        "minutes": 6.616666666666666,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T162358/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T16:23:58Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447431838
+        },
+        "state": "complete",
+        "steps": 712.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 717.0,
+        "calories": 106.30000305175781,
+        "end_time": {
+          "iso": "2015-11-13T16:54:47Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447433687
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T164149/events"
+        },
+        "heart_rate": {
+          "avg": 97.2956771850586,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T164149",
+        "minutes": 12.966666666666667,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T164149/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T16:41:49Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447432909
+        },
+        "state": "complete",
+        "steps": 1360.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 1024.0,
+        "calories": 132.6999969482422,
+        "end_time": {
+          "iso": "2015-11-13T17:30:15Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447435815
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T1712/events"
+        },
+        "heart_rate": {
+          "avg": 95.98391723632812,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T1712",
+        "minutes": 18.25,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T1712/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T17:12:00Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447434720
+        },
+        "state": "complete",
+        "steps": 1685.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 435.0,
+        "calories": 65.5999984741211,
+        "end_time": {
+          "iso": "2015-11-13T18:10:26Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447438226
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T180153/events"
+        },
+        "heart_rate": {
+          "avg": 96.49653625488281,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T180153",
+        "minutes": 8.55,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T180153/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T18:01:53Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447437713
+        },
+        "state": "complete",
+        "steps": 837.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 773.0,
+        "calories": 117.5,
+        "end_time": {
+          "iso": "2015-11-13T19:16:31Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447442191
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T190304/events"
+        },
+        "heart_rate": {
+          "avg": 101.05152130126953,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T190304",
+        "minutes": 13.45,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T190304/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T19:03:04Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447441384
+        },
+        "state": "complete",
+        "steps": 1524.0,
+        "type": "walk",
+        "version": 1
+      },
+      {
+        "actual_seconds": 507.0,
+        "calories": 73.5999984741211,
+        "end_time": {
+          "iso": "2015-11-13T19:43:40Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447443820
+        },
+        "events": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T193236/events"
+        },
+        "heart_rate": {
+          "avg": 100.01041412353516,
+          "max": null,
+          "min": null
+        },
+        "id": "walk__2015-11-13T193236",
+        "minutes": 11.066666666666666,
+        "sealed": true,
+        "stages": {
+          "link": "/v2/users/5277759d91d7302c2fed9ca5/activities/walk__2015-11-13T193236/stages"
+        },
+        "start_time": {
+          "iso": "2015-11-13T19:32:36Z",
+          "time_zone": {
+            "name": "Europe/Dublin",
+            "offset": 0
+          },
+          "timestamp": 1447443156
+        },
+        "state": "complete",
+        "steps": 926.0,
+        "type": "walk",
+        "version": 1
+      }
+    ]
+  },
+  "meta": {
+    "response_code": 200
+  }
+}

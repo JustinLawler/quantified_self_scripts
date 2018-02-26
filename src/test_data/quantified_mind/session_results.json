@@ -1,0 +1,29 @@
+{
+    "battery": "coffee3", 
+    "end_time": "2015/12/24 10:47:13.235110", 
+    "experiment": "Coffee", 
+    "experiment_id": 5951537408901120, 
+    "mental_variables": [
+        {
+            "state": "Before", 
+            "variable": "Are you testing before or after coffee?"
+        }, 
+        {
+            "state": "", 
+            "variable": "Any other comments?"
+        }
+    ], 
+    "session_id": 4968537145737216, 
+    "start_time": "2015/12/24 10:35:44.954430", 
+    "tests": [
+        6214495884017664, 
+        5198325143830528, 
+        6147881343909888, 
+        6625378628009984, 
+        4819923761102848, 
+        5086373868470272
+    ], 
+    "timezone": "Europe/Dublin", 
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7", 
+    "username": "jdpl28"
+}
